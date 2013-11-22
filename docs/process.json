@@ -1,0 +1,8 @@
+{
+    'name': 'java',
+    'id': 'aaaaa',
+    'args': '...',
+    'pid': ['123', '456'],
+    'heartbeats': ['data1', 'date2'],
+    'node' : 'xxx',
+}
